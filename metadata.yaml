@@ -1,0 +1,37 @@
+_repo: The-Desert-Valley_15502
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gregory, Jackson
+    birthdate: 1882
+    deathdate: 1943
+    gutenberg_agent_id: '3384'
+    url: http://www.gutenberg.org/2009/agents/3384
+    wikipedia: http://en.wikipedia.org/wiki/Jackson_Gregory
+description: Professor James Edward Longstreet, retired university geologist, and
+  his more practical daughter, Helen, have the courage, brains and determination to
+  find gold and silver when they arrive in the Southwest desert - but they are inexperienced
+  in field work and the deceptive ways of greedy men. They find both gold and a mystery,
+  a hastily abandoned campsite marked by a stick with a bluejay feather on it, supper
+  burning on the fire, and the tracks of a huge dog. Rancher Alan Howard invites them
+  to his Desert Valley oasis, and on the way they pass one of their host's beef cattle
+  butchered, with a poke of gold beside it. The Professor files his claim, but falls
+  victim to a claim-jumping scam. The leader is a vicious crook with a beautiful woman
+  ally who plays up to the seemingly innocent Professor - and Helen's warnings are
+  in vain.
+gutenberg_issued: '2005-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: The Desert Valley
+url: http://www.gutenberg.org/ebooks/15502
